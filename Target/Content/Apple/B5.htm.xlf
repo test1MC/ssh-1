@@ -64,7 +64,6 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0"
-            MadCap:diff="New" /></target></trans-unit></body>
+            MadCap:matchPercent="0" /></target></trans-unit></body>
   </file>
 </xliff>
