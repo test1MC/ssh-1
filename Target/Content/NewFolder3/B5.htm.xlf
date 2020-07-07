@@ -55,13 +55,16 @@
             MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
-        phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
+        phase-name="pretrans"><source>Delete this text and replace it with your own content.<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="one.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;one&lt;/MadCap:xref&gt;</ph></source><seg-source><mrk
             mtype="seg"
-            mid="1">Delete this text and replace it with your own content.</mrk></seg-source><target
+            mid="1">Delete this text and replace it with your own content.<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:xref href="one.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;one&lt;/MadCap:xref&gt;</ph></mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit></body>
   </file>
 </xliff>
