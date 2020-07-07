@@ -5,14 +5,14 @@
   MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
-    original="NewTopic.htm"
+    original="renamed roro.htm"
     source-language="en-us"
     MadCap:file-filter=""
     datatype="xhtml"
     target-language="es">
     <header>
       <skl><external-file
-          href="NewTopic.htm.skl" /></skl>
+          href="renamed roro.htm.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"
